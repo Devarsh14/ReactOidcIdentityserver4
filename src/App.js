@@ -32,6 +32,7 @@ function App() {
       
     </Switch>
     <div>This is hi from home page</div>
+    <div> This is redirect test 2</div>
   </Router>
 
        
